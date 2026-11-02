@@ -1,6 +1,6 @@
 function App(){
 
-  let nome = "Vinicius Santo Barros";
+  let nome = "Vinicius Santos Barros";
   const url = "https://logospng.org/download/react/logo-react-512.png";
 
   return (
